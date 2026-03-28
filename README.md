@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Harshavardhan Reddy
 
-<!--
-**harshavardhan-reddy04/harshavardhan-reddy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integrated M.Tech Student at VIT  
+Interested in System Design & Web Development  
+Currently learning Backend Development  
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Java (Basic)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Static Website (HTML & CSS) 
+  -Live demo: https://harshavardhan-reddy04.github.io/static-website-html-css/
+  -Repository: https://github.com/harshavardhan-reddy04/static-website-html-css/tree/main
+## Goals
+- Build scalable backend systems
+- Learn system design fundamentals
+- Contribute to real-world projects
