@@ -1,4 +1,4 @@
-# Hi, I'm Harshavardhan Reddy
+# Hi, I'm A Harshavardhan Reddy
 
 Integrated M.Tech Student at VIT  
 Interested in System Design & Web Development  
