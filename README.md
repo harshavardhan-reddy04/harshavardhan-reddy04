@@ -11,8 +11,8 @@ Currently learning Backend Development
 
 ## Projects
 - Static Website (HTML & CSS) 
-  -Live demo: https://harshavardhan-reddy04.github.io/static-website-html-css/
-  -Repository: https://github.com/harshavardhan-reddy04/static-website-html-css/tree/main
+  Live demo: https://harshavardhan-reddy04.github.io/static-website-html-css/
+  Repository: https://github.com/harshavardhan-reddy04/static-website-html-css/tree/main
 ## Goals
 - Build scalable backend systems
 - Learn system design fundamentals
