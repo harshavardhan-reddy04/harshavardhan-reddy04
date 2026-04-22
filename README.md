@@ -13,7 +13,7 @@ Currently learning Backend Development
 - Static Website (HTML & CSS) 
   Repository: https://github.com/harshavardhan-reddy04/static-website-html-css/tree/main
 - Task Manager (HTML, CSS & JAVASCRIPT)
-  Repository: github.com/harshavardhan-reddy04/task-architecture
+  Repository: https://github.com/harshavardhan-reddy04/task-architecture
 ## Goals
 - Build scalable backend systems
 - Learn system design fundamentals
